@@ -5,5 +5,6 @@ public class Clase {
 	void metodo2(){}
 	//void metodo3(){}
 	void metodo9(){}
+	void metodo10(){}
 
 }
